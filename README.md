@@ -1,0 +1,6 @@
+# Project
+
+BOT是一个是总文件夹
+其中包括yolo3文件夹，BOT文件夹
+yolo3文件夹内含有yolo3模型，提供检测人功能
+BOT_project是清洗数据以及处理的功能
